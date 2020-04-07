@@ -1,0 +1,5 @@
+
+ 1234567890123 Anmol Bilal anmol.bilal@nu,edu.pk Female 03001234567 1990 2012 password Computer 1500000 Maple_st
+ 0987654321098 Usman Ghous usman.ghouse@nu.edu.pk Male 03009876543 1985 2012 teacher123 Mathematics 50000 Faisalabad
+ 1234567888888 Maria Maqsood maria.maqsood@nu.edu.pk Female 03331231231 1985 2012 password1 Computer 80000 Faisalabad
+ 1 Larry Jingles LarryJ123@gmail.com Male 17083015454 010191 040120 Mike123$ Computer 100000 1213456_denver_rd
